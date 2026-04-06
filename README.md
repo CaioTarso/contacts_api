@@ -1,24 +1,14 @@
-# README
+# Api de contatos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Essa é uma api desenvolvida em rails com o proposíto de servir um app mobile feito em react native
 
-Things you may want to cover:
 
-* Ruby version
+**repositório do app:**
+https://github.com/CaioTarso/contactsApp
 
-* System dependencies
+-----
 
-* Configuration
+### Para rodar a api use esses comandos:
+ * docker compose build
+ * docker compose up
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
