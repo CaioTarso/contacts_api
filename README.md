@@ -11,4 +11,5 @@ https://github.com/CaioTarso/contactsApp
 ### Para rodar a api use esses comandos:
  * docker compose build
  * docker compose up
-
+### Ou use só o comando
+ * docker compose up --build
