@@ -3,9 +3,11 @@
 one:
   name: MyString
   phone: MyString
+  profile_picture_url: https://example.com/one.jpg
   user: one
 
 two:
   name: MyString
   phone: MyString
+  profile_picture_url: https://example.com/two.jpg
   user: two
